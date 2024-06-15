@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "CommonLua"
+		},
+		{
+			"path": "Lua"
+		},
+		{
+			"path": "Data"
+		},
+		{
+			"path": "DLC"
+		},
+		{
+			"path": "C:\\Users\\kenji\\AppData\\Roaming\\Jagged Alliance 3\\mods\\"
+		},
+		{
+			"path": "../../Utils"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Attach to SolEngine",
+				"type": "solengine",
+				"request": "attach",
+				"address": "localhost",
+				"debugServer": 8165
+			}
+		]
+	},
+	"settings": {
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.minimap.size": "fill",
+		"workbench.colorTheme": "Kanagawa",
+		"workbench.colorCustomizations": {
+			"debugTokenExpression.value": "#cccccc"
+		}
+	}
+}

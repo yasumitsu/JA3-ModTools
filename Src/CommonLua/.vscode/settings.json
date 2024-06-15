@@ -1,0 +1,17 @@
+{
+    "Lua.workspace.ignoreDir": [],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "redundant-parameter",
+        "duplicate-set-field",
+        "trailing-space",
+        "need-check-nil",
+        "undefined-field",
+        "cast-local-type",
+        "ambiguity-1",
+        "param-type-mismatch",
+        "assign-type-mismatch",
+        "unbalanced-assignments",
+        "undefined-global"
+    ]
+}

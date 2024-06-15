@@ -1,0 +1,127 @@
+{
+	"folders": [
+		{
+			"path": "CommonLua"
+		},
+		{
+			"path": "Lua"
+		},
+		{
+			"path": "Data"
+		},
+		{
+			"path": "DLC"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/10+ Level Icons"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Bag of tricks"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Diamond Briefcase Enhanced"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Enhanced Kompositum"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/JA3.13"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Larry Regen"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Learn To Like me"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Make IMP Great Again Remastered"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/RandomAttack"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Suit Up"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Vanilla Battles Enhanced"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Vanilla Weapons Expanded"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Vanilla Weapons Expanded - Quest Items"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Modding Suite"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Sir Ni's Bag of Tricks"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Sir Ni's Editor Helper"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Grand Chien Expanded"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Audaki’s Training Overhaul"
+		},
+		{
+			"path": "../../audakis-ja3-mods-main"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/PerksExpanded"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Mentor A M.E.R.C. -- More Economic Recruiting Center"
+		},
+		{
+			"path": "../../jagged-alliance-3-better-zoom-mod-master"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Scrap More!"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/hpk-v0.3.12-x86_64-pc-windows-msvc/Lua"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/hpk-v0.3.12-x86_64-pc-windows-msvc/BinAssets"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/hpk-v0.3.12-x86_64-pc-windows-msvc/Data"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/hpk-v0.3.12-x86_64-pc-windows-msvc/Skeletons"
+		},
+		{
+			"path": "../../ja3-developer-tools-main/Packs/Lua"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Camera Mod"
+		},
+		{
+			"path": "../../../AppData/Roaming/Jagged Alliance 3/Mods/Custom Settings"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Attach to SolEngine",
+				"type": "solengine",
+				"request": "attach",
+				"address": "localhost",
+				"debugServer": 8165
+			}
+		]
+	},
+	"settings": {
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.minimap.size": "fill",
+		"workbench.colorTheme": "Monokai",
+		"workbench.colorCustomizations": {
+			"debugTokenExpression.value": "#cccccc"
+		}
+	}
+}
